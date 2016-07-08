@@ -47,5 +47,6 @@ group :development do
   #Devise
   gem 'devise'
   gem 'protected_attributes'
+  gem 'simple_form'
 
 end
